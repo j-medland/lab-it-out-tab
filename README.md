@@ -101,13 +101,15 @@ E|---------------------------------------------------
             I can finally zoom but don't wanna!
 
 
-[Bridge 2]
-  F#5                    B5
-Determine determinism, Just like an exorcism
-      D#5                  C#5
-Ain't no colloquialism Cut out the masochism
-    F#5          B5             F#*
-Get LabVIEW, Get past cynicism
+[Bridge 2 ] (Same words as bridge one but meter more like verse 1)
+  F#5                 B5
+Determine determinism (Determine determinism)
+  F#5                 C#5
+Just like an exorcism (Just like an exorcism)
+      F#5                  D#5
+Ain't no colloquialism (Ain't no colloquialism)
+    (rest)                                            F#*
+Cut out the masochism, Get LabVIEW, Get past cynicism
 
 
 [Chorus 3]
