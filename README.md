@@ -106,7 +106,7 @@ E|---------------------------------------------------
 Determine determinism (Determine determinism)
   F#5                 C#5
 Just like an exorcism (Just like an exorcism)
-      F#5                  D#5
+      F#5              B5    
 Ain't no colloquialism (Ain't no colloquialism)
     (rest)                                            F#*
 Cut out the masochism, Get LabVIEW, Get past cynicism
